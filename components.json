@@ -1034,6 +1034,10 @@
 			"title": "Scheme",
 			"owner": "bacchus123"
 		},
+		"scopes": {
+			"title": "Scopes",
+			"owner": "radgeRayden"
+		},
 		"shell-session": {
 			"title": "Shell session",
 			"require": "bash",
